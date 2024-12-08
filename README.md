@@ -1,8 +1,8 @@
 ### Hi there 👋
-🔭 I’m currently working on Harvesting Robot
-🌱 I’m currently learning Web Design
-📫 How to reach me: kaanfarukkinali@gmail.com
-😄 Pronouns: He/Him
+🔭 I’m currently working on Harvesting Robot <br />
+🌱 I’m currently learning Web Design <br />
+📫 How to reach me: kaanfarukkinali@gmail.com <br />
+😄 Pronouns: He/Him <br />
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
